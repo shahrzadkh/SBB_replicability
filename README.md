@@ -1,6 +1,8 @@
 # SBB_replicability
+# These are codes for running analyses of the following published work: 
 
-The order of running the codes:
+
+#The order of running the codes:
 
 
 # A: 01_GLM_on_many_splits_SLURM_Version.py
@@ -29,3 +31,6 @@ The order of running the codes:
   
   *** If Not using Slurm, one can modify the Many_split_running_code.py to run the analysis entirely. #TO DO
    
+
+# Contact:
+shahrzadkhm@gmail.com
