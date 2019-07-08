@@ -1,8 +1,8 @@
 # SBB_replicability
-# These are codes for running analyses of the following published work: 
+_These are codes for running analyses of the following published work:_
 
 
-#The order of running the codes:
+The order of running the codes:
 
 
 # A: 01_GLM_on_many_splits_SLURM_Version.py
