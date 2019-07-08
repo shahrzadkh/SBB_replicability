@@ -1,6 +1,8 @@
 # SBB_replicability
 _These are codes for running analyses of the following published work:_
 
+https://elifesciences.org/articles/43464
+
 
 The order of running the codes:
 
